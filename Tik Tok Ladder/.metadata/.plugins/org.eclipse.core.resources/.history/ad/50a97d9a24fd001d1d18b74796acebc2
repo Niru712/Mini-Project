@@ -1,0 +1,10 @@
+package Game;
+
+public class DemoTikTok 
+{
+	public static void main(String[] args) 
+	{
+		Board b = new Board();
+		b.Player1(1, 1);
+	}
+}

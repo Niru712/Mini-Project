@@ -1,0 +1,26 @@
+C:\Users\kundan koli\source\repos\ATM Management\ATM Management\bin\Debug\Atm management.mdf
+C:\Users\kundan koli\source\repos\ATM Management\ATM Management\bin\Debug\Atm management_log.ldf
+C:\Users\kundan koli\source\repos\ATM Management\ATM Management\bin\Debug\ATM Management.exe.config
+C:\Users\kundan koli\source\repos\ATM Management\ATM Management\bin\Debug\ATM Management.exe
+C:\Users\kundan koli\source\repos\ATM Management\ATM Management\bin\Debug\ATM Management.pdb
+C:\Users\kundan koli\source\repos\ATM Management\ATM Management\obj\Debug\ATM Management.csproj.AssemblyReference.cache
+C:\Users\kundan koli\source\repos\ATM Management\ATM Management\obj\Debug\ATM Management.csproj.SuggestedBindingRedirects.cache
+C:\Users\kundan koli\source\repos\ATM Management\ATM Management\obj\Debug\ATM_Management.Account.resources
+C:\Users\kundan koli\source\repos\ATM Management\ATM Management\obj\Debug\ATM_Management.Balance.resources
+C:\Users\kundan koli\source\repos\ATM Management\ATM Management\obj\Debug\ATM_Management.ChangePin.resources
+C:\Users\kundan koli\source\repos\ATM Management\ATM Management\obj\Debug\ATM_Management.Deposit.resources
+C:\Users\kundan koli\source\repos\ATM Management\ATM Management\obj\Debug\ATM_Management.FASTCASH.resources
+C:\Users\kundan koli\source\repos\ATM Management\ATM Management\obj\Debug\ATM_Management.Form1.resources
+C:\Users\kundan koli\source\repos\ATM Management\ATM Management\obj\Debug\ATM_Management.HOME.resources
+C:\Users\kundan koli\source\repos\ATM Management\ATM Management\obj\Debug\ATM_Management.Login.resources
+C:\Users\kundan koli\source\repos\ATM Management\ATM Management\obj\Debug\ATM_Management.Properties.Resources.resources
+C:\Users\kundan koli\source\repos\ATM Management\ATM Management\obj\Debug\ATM_Management.WITHDRAW.resources
+C:\Users\kundan koli\source\repos\ATM Management\ATM Management\obj\Debug\ATM Management.csproj.GenerateResource.cache
+C:\Users\kundan koli\source\repos\ATM Management\ATM Management\obj\Debug\ATM Management.csproj.CoreCompileInputs.cache
+C:\Users\kundan koli\source\repos\ATM Management\ATM Management\obj\Debug\ATM Management.exe
+C:\Users\kundan koli\source\repos\ATM Management\ATM Management\obj\Debug\ATM Management.pdb
+C:\Users\kundan koli\source\repos\ATM Management\ATM Management\obj\Debug\ATM_Management.MINISTATEMENT.resources
+C:\Users\kundan koli\source\repos\ATM Management\ATM Management\bin\Debug\ATM Management.exe.manifest
+C:\Users\kundan koli\source\repos\ATM Management\ATM Management\bin\Debug\ATM Management.application
+C:\Users\kundan koli\source\repos\ATM Management\ATM Management\obj\Debug\ATM Management.exe.manifest
+C:\Users\kundan koli\source\repos\ATM Management\ATM Management\obj\Debug\ATM Management.application

@@ -1,0 +1,3 @@
+INDEX VERSION 1.132+D:\CDAC VITA DAY-WISE\PROJECTS\21 CARDS GAME\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+3439190885.index
