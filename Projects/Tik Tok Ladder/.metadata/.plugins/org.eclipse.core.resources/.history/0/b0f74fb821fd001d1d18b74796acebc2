@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author ankur
- *
- */
-module TikTokGame {
-}

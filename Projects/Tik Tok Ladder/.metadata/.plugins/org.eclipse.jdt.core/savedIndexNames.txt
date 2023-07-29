@@ -1,5 +1,0 @@
-INDEX VERSION 1.132+D:\Study Related\SM vita\JavaSE\PROJECTS\Tik Tok Ladder\.metadata\.plugins\org.eclipse.jdt.core
-1865797976.index
-3306053724.index
-3055166710.index
-3435648363.index
